@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-color: darkgrey;
+}
+
+input {
+    width: 400px;
+    margin: 0.2%;
+}
+
+label {
+    font-size: 17px;
+}
